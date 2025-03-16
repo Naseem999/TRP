@@ -16,6 +16,9 @@ This project was completed as an assignment for The Renal Project internship int
 - Built using Materialize CSS and Bootstrap frameworks
 -All device responsive and user-friendly interface
 
+## Design Approach
+
+I tried to give a new look to the logo and website UI by using my creativity, with the goal of creating a visually appealing and modern design. I experimented with different layouts, colors, and typography to create a unique and engaging user experience.
 
 ## Tech Used
 - Frontend: Materialize CSS and Bootstrap, HTML,CSS,JS
