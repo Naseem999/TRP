@@ -22,6 +22,12 @@ This project was completed as an assignment for The Renal Project internship int
 - Backend: PHP
 - Database: Mysql
 
+## Quick view
+
+![screenshot-localhost-82-medi-login-php-1620415995668 (1)](https://github.com/user-attachments/assets/9019d74c-2075-4758-a5f2-b7f26fe2bd9a)
+
+![screenshot-localhost-82-medi-1620304330992](https://github.com/user-attachments/assets/aef0a9c5-9aac-4efb-9fe5-b608083b377f)
+
 
 ## Acknowledgements
 
